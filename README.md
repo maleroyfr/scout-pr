@@ -204,26 +204,3 @@ Platform script:
 ```text
 WIN - GLB - ALL - Script - Microsoft Scout - Baseline
 ```
-
-## Author
-
-Mathieu Leroy  
-ROXYS
-
-## Version
-
-```text
-1.0.0
-```
-
-## License
-
-No license has been defined yet.
-
-Add a license file before public distribution if required.
-
-## Disclaimer
-
-This repository provides helper scripts to manage Microsoft Scout policy registry values through Intune.
-
-Use at your own risk and validate all settings in a pilot group before deploying to production devices.
